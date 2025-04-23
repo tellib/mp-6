@@ -1,5 +1,4 @@
 export function Button({
-  className,
   type = "button",
   children,
   ...props
